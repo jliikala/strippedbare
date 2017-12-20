@@ -224,7 +224,7 @@ p.brief-info {
 @media screen and (max-width: 640px) {
 	.section-title { font-size: 2em; line-height: 1em; }
 	.info .container {
-		top: 150px !important;
+		top: 50px !important;
 		max-width: 100%;
 		display: block;
 	}
